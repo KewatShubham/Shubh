@@ -1,7 +1,7 @@
 public class evenodd {
 
     public static void main(String[] args) {
-        int number = 21;
+        int number = 35;
 
         // checking whether the number is even or odd
         if (number % 2 == 0)
